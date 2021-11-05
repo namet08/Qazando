@@ -2,7 +2,7 @@ exports.config = {
   output: './output',
   helpers: {
     Appium: {
-      app: '/home/julio/code/app/app-release.apk',
+      app: '/home/julio/Qazando/app/app-release.apk',
       platform: 'Android',
       device: 'pixel',
       desiredCpabilities: {
